@@ -1,0 +1,1 @@
+[com.datomic/simulant "0.1.6"]
